@@ -6,6 +6,7 @@ This program was written to check the code and logs written by the students in t
 2-Then upload them to the application.                   
 3-Start the evaluation.                                   
 4-EvaluationOfTheClass.log file will be extracted in 'Log File folder'.
+
 5-You can save the outputs to your device if you want.          
 
 Hint: If you want test quickly you can use 'ExampleFiles' Folder :D
